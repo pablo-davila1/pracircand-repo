@@ -32,6 +32,6 @@ public class UserInfo {
         number = captura_number.nextInt();
 
         JOptionPane.showMessageDialog(null, "Bienvenido señor "+name+"," + " es un placer para nosotros contar con una persona de "+edad+"\n" +
-                "años. Próximamente nos comunicaremos con usted al numero "+number+"\n Feliz día.");
+                "años. Próximamente nos comunicaremos con usted al numero "+number+"\n Feliz resto de día.");
     }
 }
