@@ -16,8 +16,8 @@ public class UserInfo {
 
     Feliz día
     */
-        int number = 0;
-        int edad=0;
+        int number;
+        int edad;
         String name = "";
         System.out.print("Ingrese su nombre: ");
         Scanner captura_name = new Scanner(System.in);
